@@ -1,0 +1,188 @@
+.sectionTwo-p {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 16px;
+    color: #242f51;
+
+}
+
+.co-images {
+    text-align: center;
+}
+
+.co-images ul li {
+    list-style: none;
+    display: inline;
+
+    padding: 30px;
+}
+
+.sTwoPhoneArea {
+    margin-top: 100px;
+    overflow: hidden;
+}
+
+.sTwoPhone {
+    width: 60%;
+    float: left;
+    background-image: url(../images/phone-bg-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 80%;
+    overflow: hidden;
+}
+
+.sTwoPhone img {
+    margin-left: 20px;
+}
+
+.sTwoText {
+    width: 40%;
+    overflow: hidden;
+}
+
+.sTwoTextH h2 {
+    color: #242f51;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.sTwoTextH p {
+    color: #616368;
+    font-size: 16px;
+}
+
+.features {
+    margin-top: 40px;
+    float: left;
+
+}
+
+.features .f-img {
+    background-color: #ffebef;
+    display: inline-block;
+    border-radius: 50%;
+    padding: 10px 10px 6px 10px;
+    text-align: center;
+
+    margin-right: 40px;
+
+}
+
+.f-right {
+    margin-bottom: -50px;
+}
+
+.someText {
+    overflow: hidden;
+    margin-top: 100px;
+    /* background-color: #ccc; */
+    padding: 20px 0;
+}
+
+.someTextLeft {
+    float: left;
+    overflow: hidden;
+    width: 50%;
+}
+
+.someTextLeft h2 {
+    font-size: 40px;
+    color: #242f51;
+    font-weight: 600;
+    margin-left: 10px;
+
+}
+
+.vr {
+    border-right: 1px solid #4b4a47;
+    height: 180px;
+    width: 1px;
+    overflow: hidden;
+    margin-top: 40px;
+    margin-left: -100px;
+    float: left;
+    width: 8%;
+}
+
+.someTextRight {
+    overflow: hidden;
+    /* padding-left: 60px; */
+    margin-top: 50px;
+    width: 42%;
+
+
+
+}
+
+.someTextRight p {
+    color: #616368;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 40px;
+}
+
+.centerClass {
+    text-align: center;
+}
+
+.featuresBottom {
+    width: 25%;
+    overflow: hidden;
+    padding: 0 30px;
+    text-align: left;
+
+    display: inline-block;
+}
+
+.features2 {
+    float: none;
+    overflow: hidden;
+    margin-bottom: -60px;
+
+}
+
+.empty {
+    overflow: hidden;
+    margin-top: 100px;
+}
+
+.design-area {
+    overflow: hidden;
+    /* background-color: #ccc; */
+    padding: 40px 0;
+}
+
+.design-img {
+    width: 60%;
+    float: left;
+    overflow: hidden;
+
+}
+
+.design-text {
+    width: 40%;
+    overflow: hidden;
+
+
+}
+
+.design-text h2 {
+    color: #242f51;
+    font-size: 36px;
+    font-weight: 36px;
+    margin-top: 100px;
+    letter-spacing: 2px;
+}
+
+.design-text p {
+    color: #616368;
+    margin-bottom: 50px;
+}
+
+hr {
+    margin-top: 50px;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 0;
+}

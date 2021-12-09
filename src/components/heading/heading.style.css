@@ -1,0 +1,21 @@
+.heading-style {
+    margin-top: 150px;
+
+}
+
+.heading-style h2 {
+    font-size: 36px;
+    color: #242f51;
+    width: 350px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.heading-style p {
+    color: #616368;
+    font-weight: 400;
+    font-size: 16px;
+    width: 400px;
+    margin-top: 0px;
+    margin-bottom: 60px;
+}

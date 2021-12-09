@@ -1,0 +1,23 @@
+.f-text {
+    overflow: hidden;
+    margin-top: 70px;
+}
+
+
+
+.f-text h3 {
+    color: #f55767;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: -10px;
+}
+
+.f-text .h3-blue {
+    color: #2563ff;
+}
+
+.f-text p {
+    color: #616368;
+    font-size: 16px;
+    width: 85%;
+}

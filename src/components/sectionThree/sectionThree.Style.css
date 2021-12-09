@@ -1,0 +1,25 @@
+.sectionTop {
+    text-align: center;
+    margin-top: 100px;
+
+
+}
+
+.sectionTop h2 {
+    color: #242f51;
+    font-size: 36px;
+}
+
+.sectionTop p {
+    color: #616368;
+}
+
+.sectionMiddle {
+    margin: 50px;
+    overflow: hidden;
+
+}
+
+.sectionBottom {
+    overflow: hidden;
+}
