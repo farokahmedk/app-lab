@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/app-lab/static/css/main.3e13ea16.chunk.css",
+    "main.js": "/app-lab/static/js/main.f40a32ac.chunk.js",
+    "main.js.map": "/app-lab/static/js/main.f40a32ac.chunk.js.map",
+    "runtime-main.js": "/app-lab/static/js/runtime-main.68dd16d1.js",
+    "runtime-main.js.map": "/app-lab/static/js/runtime-main.68dd16d1.js.map",
+    "static/js/2.621d72ac.chunk.js": "/app-lab/static/js/2.621d72ac.chunk.js",
+    "static/js/2.621d72ac.chunk.js.map": "/app-lab/static/js/2.621d72ac.chunk.js.map",
+    "static/js/3.2b735c1e.chunk.js": "/app-lab/static/js/3.2b735c1e.chunk.js",
+    "static/js/3.2b735c1e.chunk.js.map": "/app-lab/static/js/3.2b735c1e.chunk.js.map",
+    "index.html": "/app-lab/index.html",
+    "static/css/main.3e13ea16.chunk.css.map": "/app-lab/static/css/main.3e13ea16.chunk.css.map",
+    "static/js/2.621d72ac.chunk.js.LICENSE.txt": "/app-lab/static/js/2.621d72ac.chunk.js.LICENSE.txt",
+    "static/media/sectionOne.css": "/app-lab/static/media/header-bg.84ef6615.png",
+    "static/media/phone-1.png": "/app-lab/static/media/phone-1.fbe436b1.png",
+    "static/media/phone-2.png": "/app-lab/static/media/phone-2.02098cba.png",
+    "static/media/phone-3.png": "/app-lab/static/media/phone-3.59349602.png",
+    "static/media/phone-4.png": "/app-lab/static/media/phone-4.085f9fd4.png",
+    "static/media/sectionTwo.style.css": "/app-lab/static/media/phone-bg-1.65e918d2.png",
+    "static/media/phone-bg-2.png": "/app-lab/static/media/phone-bg-2.38a8a01d.png",
+    "static/media/social-image.png": "/app-lab/static/media/social-image.e1a0809f.png",
+    "static/media/vector2.png": "/app-lab/static/media/vector2.dc951f20.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68dd16d1.js",
+    "static/js/2.621d72ac.chunk.js",
+    "static/css/main.3e13ea16.chunk.css",
+    "static/js/main.f40a32ac.chunk.js"
+  ]
+}
